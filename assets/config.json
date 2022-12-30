@@ -1,0 +1,12 @@
+{
+    "accounts":[
+        {
+            "userName":"Your Name",
+            "passWord":"Your Passcode",
+            "domain":"Your Domain",
+            "desc":"Your Desc"
+        }
+    ],
+    "registerTimer": 20,
+    "transport": "tcp"
+}
